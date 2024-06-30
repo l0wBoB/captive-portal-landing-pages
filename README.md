@@ -1,1 +1,1 @@
-# captive-portal-landing-pages
+This is a very incomplete list of domains that should be excluded from requests to public DNS servers or DNS servers behind VPN connections so that access to captive portals, connectivity checks, and local network devices remain functional.
